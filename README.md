@@ -6,9 +6,13 @@ Time series forecasting of sales data using machine learning is a project aimed 
 
 ## Features
 Data Preparation: Thorough cleaning and preprocessing of Walmart's sales data.
+
 Modeling Techniques: Utilization of regression methods and time series analysis for accurate predictions.
+
 Model Evaluation: Rigorous assessment of models using MAE, MSE, and RMSE metrics.
+
 Decision Support System: Creation of a user-friendly interface for visualizing forecasts and generating reports.
+
 Scalability and Integration: Designing the system to scale with data growth and integrate seamlessly with existing systems.
 
 ## Requirements
