@@ -13,12 +13,14 @@ Scalability and Integration: Designing the system to scale with data growth and 
 
 ## Requirements
 Software Specifications:
+
 Libraries
 Dataset
 Python 
 Jupyter notebook an open source IDE for executing the project
 
 Hardware Specifications:
+
 Processor: Intel Core i3 or i5
 Memory: 8 GB RAM
 32 or 64 bit computer
@@ -29,7 +31,8 @@ Minimum 3GB disk space to download and install Jupyter
 
 ## Output-1:
 ![image](https://github.com/Rajasree-321/Project-Phase-2/assets/96918911/91b6afd0-7ac2-40b4-b416-7e273ed9a39b)
-Time Series Decompose
+
+Time Series Decompose:
 The trend represents long-term movements, seasonality reflects cyclic patterns, and the remainder accounts for residual variation. 
 This analysis aids in understanding sales patterns, facilitating tasks like forecasting and anomaly detection.
 
